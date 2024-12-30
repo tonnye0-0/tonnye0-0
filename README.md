@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- My name Thalison i'm a <br>- I've been studying programming for a year<br>-</p>
+<p align="left">- My name Thalison <br>- I've been studying programming for a year<br>-</p>
 
 ###
 
